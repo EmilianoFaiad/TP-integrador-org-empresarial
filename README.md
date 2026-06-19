@@ -4,7 +4,7 @@ el proyecto consiste en un chatbot que realiza la gestión de vacaciones de un e
 # librerias necesarias 
 se usó las librerías PANDAS y OpenPyXL que permiten a python leer y escribir archivos de excel (.xlsx)
 se pueden instalar las mismas usando el siguiente comando en la terminal cuando el código no se está ejecutando: pip install pandas openpyxl
-asegúrese que la variable "ARCHIVO_EXCEl" contenga la ruta de acceso correcta hacia la base de datos a usar
+asegúrese que la variable "ARCHIVO_EXCEL" contenga la ruta de acceso correcta hacia la base de datos a usar
 # como usar el chatbot:
 el chatbot es fácil de usar al principio te pregunta si quieres realizar una solicitud o si quieres salir.
 si seleccionas la opción 1 procede a pedir el DNI a buscar y si el DNI que diste no está en la base de datos procede a pedir tu nombre y cantidad de días disponibles y te agrega a la base de datos
